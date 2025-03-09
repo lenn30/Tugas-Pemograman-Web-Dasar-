@@ -1,20 +1,36 @@
-# Teach Stack
-Tumpukan teknologi adalah serangkaian teknologi yang digunakan untuk mengembangkan aplikasi, termasuk bahasa pemrograman, kerangka kerja, basis data, alat front-end dan back-end, serta API.
-## Front-End HTML 
-HTML adalah bahasa markup yang umumnya digunakan untuk menyusun bagian paragraf, heading, maupun link pada halaman web.
+# Tech Stack HTML
+
+## Pengertian
+HTML (Hypertext Markup Language) merupakan bahasa markup yang digunakan untuk membuat halaman website dan aplikasi web.
+
+## Komponen 
+Tag, Elemen, dan Atribut
 
 ## Kelebihan HTML 
-* Digunakan secara luas dan memiliki banyak sumber serta komunitas yang besar.
-* Mudah dipelajari.
-* Open-source dan sepenuhnya gratis.
-* Menjadi standar resmi web, dikelola oleh (W3C).
+* Bisa disisipkan animasi dan gambar
+* Bisa disisipkan bahasa pemograman
+* Tidak memerlukan kompiler
+* Bisa digunakan jenis komputer berbeda
    
 ## Kekurangan HTML 
-* Tidak bisa menjalankan logic. Alhasil, semua halaman web harus dibuat terpisah meskipun menggunakan elemen yang sama, seperti header dan footer.
-*Fitur baru tidak bisa digunakan dengan cepat di sebagian browser.
-* Perilaku browser terkadang sulit diprediksi. Misalnya, browser lama tidak selalu bisa merender tag yang lebih baru.
-* Umumnya digunakan untuk halaman web statis.
+* Menghasilkan halaman statis
+* Mempunyai tag yang sangat banyak jadi cukup sulit untuk dipelajari
+* Tidak bisa menghasilkan halaman interaktif
+
+## Perkembangan di 2025
+Optimasi mode gelap (dark mode), di mana desain web harus diseusaikan dengan prefrensi user, namun tetap menjaga keterbacaan dan estetika.
+
+## Contoh Perusahaan Yang Menggunakan HTML
+Website Official BNI (Bank Negara Indonesia)
 
 ### sumber 
-* https://www.heap.io/topics/what-is-a-tech-stack
-* https://www.hostinger.com/id/tutorial/apa-itu-html
+* https://www.cloudeka.id/id/berita/teknologi/pengertian-html/
+* https://www.cloudeka.id/id/berita/teknologi/pengertian-html/
+* https://codingstudio.id/blog/pengertian-html-dan-kelebihan-kekurangannya/
+* https://dev.to/andrianv5/email-and-web-design-trends-for-2025-a-guide-for-html-and-css-developers-17ga
+* https://badoystudio.com/contoh-website-perusahaan/
+
+## Peta Konsep 
+
+![HTML](https://github.com/user-attachments/assets/dff95017-7dc5-4e6b-b4bf-d54723a12642)
+

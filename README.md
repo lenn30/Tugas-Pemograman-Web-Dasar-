@@ -1,5 +1,8 @@
 # Tech Stack HTML
 
+## Pengertian
+HTML (Hypertext Markup Language) merupakan bahasa markup yang digunakan untuk membuat halaman website dan aplikasi web.
+
 ## Komponen 
 Tag, Elemen, dan Atribut
 
